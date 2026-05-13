@@ -1,0 +1,9 @@
+name: astrbot_plugin_yushu_menu
+desc: 羽书功能菜单（文本合并转发 + 总览图）
+help: 发送「羽书 菜单」「羽书 帮助」「羽书 功能」查看功能列表
+version: v3.1.0
+author: vivy1024
+repo: https://github.com/vivy1024/astrbot_plugin_yushu_menu
+astrbot_version: ">=4.14.0"
+support_platforms:
+  - aiocqhttp
